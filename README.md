@@ -6,4 +6,5 @@ Link to the course: https://www.udemy.com/data-science-and-machine-learning-with
 ### Clone this Repository
 ```git clone https://github.com/jelloh/course-udemy-machine-learning.git```  
 ### Download the Course Material  
-Download from this [link](https://sundog-education.com/datascience/).
+Download course material from this [link](https://sundog-education.com/datascience/).  
+Notebooks under "Course Notebooks" are the same as from this download, but with my own edits added.
