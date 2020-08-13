@@ -11,5 +11,5 @@ Notebooks under "Course Notebooks" are the same as from this download, but with 
   
 ### Set up  
 Use the resource: https://pipenv.pypa.io/en/latest/  
-```pipenv shell```
+```pipenv shell```  
 ```pipenv install```
