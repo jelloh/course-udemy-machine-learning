@@ -8,3 +8,8 @@ Link to the course: https://www.udemy.com/data-science-and-machine-learning-with
 ### Download the Course Material  
 Download course material from this [link](https://sundog-education.com/datascience/).  
 Notebooks under "Course Notebooks" are the same as from this download, but with my own edits added.
+  
+### Set up  
+Use the resource: https://pipenv.pypa.io/en/latest/  
+```pipenv shell```
+```pipenv install```
